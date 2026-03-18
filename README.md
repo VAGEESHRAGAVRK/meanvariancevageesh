@@ -67,14 +67,26 @@ r=corr(x,y,n1);
 
 plot2d3('gnn',r);
 
+THEOREY CALCULATIONS
 
 
-OUTPUTWAVEFORM 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39510c69-6431-4080-bef6-735302480e3e" />
+<img width="806" height="1280" alt="image" src="https://github.com/user-attachments/assets/578ff104-0b48-489e-8b4b-53bdfc5c5c53" />
+<img width="782" height="1280" alt="image" src="https://github.com/user-attachments/assets/dfdc2490-90a4-47d8-8114-faf870b30bfa" />
+<img width="754" height="1280" alt="image" src="https://github.com/user-attachments/assets/8b3c75d4-e56a-4be6-a296-5d41ad53ca28" />
+<img width="775" height="1280" alt="image" src="https://github.com/user-attachments/assets/5b22571e-3532-45df-9573-3d0fc788ea3e" />
+<img width="732" height="1280" alt="image" src="https://github.com/user-attachments/assets/bf4beb2b-cc4f-4c7d-832c-8005dcabe806" />
+<img width="765" height="1280" alt="image" src="https://github.com/user-attachments/assets/ce132bac-7f3d-44ec-97ba-8fdb8c1f45a8" />
+
+OUTPUT
+<img width="1527" height="885" alt="image" src="https://github.com/user-attachments/assets/8a0174de-6a0b-43da-9ff9-d7d7abd8edf1" />
+
+
+
+
 
 
 OUTPUT
-i)	Mean of X =	0.25 Mean of Y =	0.25
+i)	Mean of X =	1.75 Mean of Y =	1.75
 
 ii)	Variance of X	 0.0375 Variance of Y	0.0375
 
